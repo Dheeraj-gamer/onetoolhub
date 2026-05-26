@@ -1,0 +1,6 @@
+{
+  "name": "OneTool Hub",
+  "description": "An all-in-one smart utility platform featuring calculators, productivity tools, file converters, finance, health, translations, and an AI assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
